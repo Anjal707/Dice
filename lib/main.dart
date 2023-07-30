@@ -31,8 +31,8 @@ class FirstPage extends StatefulWidget {
 }
 
 class _FirstPageState extends State<FirstPage> {
-  var value1 = '3';
-  var value2 = '5';
+  var value1 = '2';
+  var value2 = '4';
 
   @override
   Widget build(BuildContext context) {
